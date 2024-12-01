@@ -1,7 +1,9 @@
 body
 {
     overflow-x: hidden;
+    
 }
+
 fieldset{
     border: 2px solid grey;
     border-radius: 5px;
@@ -18,7 +20,7 @@ legend{
 .soci-contact{
     display: flex;
     flex-wrap: wrap;
-    background-color: #101010;
+    
 }
 .messenger{
     width: 200px;
