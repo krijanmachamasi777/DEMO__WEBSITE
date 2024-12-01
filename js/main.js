@@ -56,5 +56,5 @@ window.onload = function () {
     document.getElementById("home").style.backgroundImage =
       'url("' + BackgroundImg[i] + '")';
   }
-  window.setInterval(changeImage, 5000);
+  window.setInterval(changeImage, 4000);
 };
