@@ -32,11 +32,11 @@ window.onload = function () {
   var greeting;
   var time = new Date().getHours();
   if (time < 12) {
-    greeting = "Good morning";
+    greeting = "Good Morning";
   } else if (time < 18) {
-    greeting = "Good afternoon";
+    greeting = "Good Afternoon";
   } else {
-    greeting = "Good evening";
+    greeting = "Good Evening";
   }
   document.getElementById("greet").innerHTML = greeting;
   setTimeout(function () {
