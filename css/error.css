@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    background-color: aqua;
+}
+h1{
+    font-size: 50px;
+    color: #333;
+    text-align: center;
+    margin-top: 15%;
+    text-decoration: underline;
+}
+h2{
+    font-size: 30px;
+    color: #333;
+    text-align: center;
+    margin-top: 3%;
+}
+h3{
+    font-size: 20px;
+    color: #333;
+    text-align: center;
+    margin-top: 2%;
+}
